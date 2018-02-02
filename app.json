@@ -1,0 +1,35 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/add/add"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath":"images/d_assess3x.png",
+        "selectedIconPath":"images/d_assess3x.png"
+
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志11",
+        "iconPath": "images/d_pay3x.png"
+      },
+      {
+        "pagePath": "pages/add/add",
+        "text": "添加",
+        "iconPath": "images/order_success.png"
+      }
+    ]
+  },
+  "debug":true
+}
