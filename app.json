@@ -22,7 +22,7 @@
       {
         "pagePath": "pages/logs/logs",
         "text": "日志11",
-        "iconPath": "images/d_assess3x.png"
+        "iconPath": "images/order_success.png"
       },
       {
         "pagePath": "pages/add/add",
